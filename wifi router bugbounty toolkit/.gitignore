@@ -1,0 +1,4 @@
+reports/*.txt
+*.log
+.env
+.DS_Store
