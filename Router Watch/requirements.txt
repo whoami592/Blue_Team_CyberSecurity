@@ -1,0 +1,2 @@
+# RouterWatch uses Python standard library only.
+# No pip packages are required.
